@@ -11,7 +11,7 @@ export default function Nav() {
       <ul className="flex justify-center text-grey-700x1 items-center p-8">
         <li>
           <Link href="/">
-            <a className="text-blue-500 no-underline">Home</a>
+            <a className="text-blue-500 no-underline">My Home</a>
           </Link>
         </li>
         <ul className="flex justify-between items-center">
