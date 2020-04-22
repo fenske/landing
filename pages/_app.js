@@ -1,7 +1,5 @@
 import '../styles/index.css';
 
-function MyApp({ Component, pageProps }) {
+export default function CoreSkillsApp({ Component, pageProps }) {
   return <Component {...pageProps} />
 }
-
-export default MyApp;
